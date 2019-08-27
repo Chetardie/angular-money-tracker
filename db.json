@@ -1,4 +1,36 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "email": "wfm@mail.ru",
+      "password": "12345678",
+      "name": "Администратор"
+    },
+    {
+      "email": "ivanreshetar@gmail.com",
+      "password": "12345678",
+      "name": "Иван",
+      "id": 2
+    },
+    {
+      "email": "deydera23@gmail.com",
+      "password": "123123",
+      "name": "Anton",
+      "id": 3
+    },
+    {
+      "email": "dexcydera23@gmail.com",
+      "password": "123123",
+      "name": "lk",
+      "id": 4
+    },
+    {
+      "email": "deyderoju3@gmail.com",
+      "password": "123123",
+      "name": "jnuin",
+      "id": 5
+    }
+  ],
   "posts": [
     {
       "id": 1,
